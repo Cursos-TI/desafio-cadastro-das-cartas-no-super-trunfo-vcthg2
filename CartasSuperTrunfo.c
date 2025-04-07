@@ -32,6 +32,5 @@ int main() {
     printf("A Densidade da população é: %.2f / O Pib per capta é: %.2f\n", densidadedapopulacao, pibpercapta);
     
 
-
 return 0;
 }
