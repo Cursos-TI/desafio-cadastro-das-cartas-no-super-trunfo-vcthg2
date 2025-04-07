@@ -7,8 +7,6 @@ int main() {
     float area, densidadedapopulacao, pibpercapta;
     char nome[30];
     
-
-
     printf("Nome da cidade: \n");
     scanf("%s", nome);
 
@@ -33,4 +31,5 @@ int main() {
     
 
 return 0;
+
 }
